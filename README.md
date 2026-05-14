@@ -17,3 +17,7 @@
    아래 명령어를 통해 깃허브에서 프로젝트를 다운로드합니다.
    ```bash
    git clone [https://github.com/GGajsi/MY_file.git](https://github.com/GGajsi/MY_file.git)
+
+
+<img width="360" height="407" alt="스크린샷 2026-05-15 001353" src="https://github.com/user-attachments/assets/65b424b2-b8bb-4cdb-b1ed-0f1d0bcb372c" />
+<img width="362" height="407" alt="스크린샷 2026-05-15 002309" src="https://github.com/user-attachments/assets/28d33f7c-c11c-4f0d-b024-e3432cc94a11" />
